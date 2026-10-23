@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Samir Bekirli 👋
 
-<!--
-**samirbekirli/samirbekirli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | Founder of Mitfly | Creator of WidGefter
 
-Here are some ideas to get you started:
+I'm a developer passionate about building useful digital products, exploring artificial intelligence, and creating innovative technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+- ✈️ **Mitfly**: A flight search and comparison platform designed to make travel planning easier.
+- 🧠 **AI & SaaS**: Exploring artificial intelligence and software-as-a-service products.
+- 🎬 **WidGefter**: My YouTube channel about entrepreneurship, startups, and SaaS development.
+
+## 🛠️ Interests
+
+- Software Development
+- Artificial Intelligence
+- Web Applications
+- SaaS & Startups
+
+## 🔗 Connect With Me
+
+- 🌐 [Website](https://samirbekirli.github.io)
+- 🎥 [YouTube: WidGefter](https://www.youtube.com/@WidGefter)
+- 💼 [LinkedIn](https://www.linkedin.com/in/samirbekirli)
+- 𝕏 [@WidGefter](https://x.com/WidGefter)
+
+*Learning, building, and improving every day.*
