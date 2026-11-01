@@ -20,10 +20,7 @@ I'm a developer passionate about building useful digital products, exploring art
 ## 🔗 Connect With Me
 ### Samir Bekirli
 Founder of MitFly
-
-- Wikidata: [Q141824562](https://www.wikidata.org/wiki/Q141824562)
-- Organization: [MitFly - Q141824565](https://www.wikidata.org/wiki/Q141824565)
-- Website: https://withlukadailynews.github.io/samirbekirli-dev/
+- Website: https://mitfly.site/
 
 - 🌐 [Website](https://samirbekirli.github.io)
 - 🎥 [YouTube: WidGefter](https://www.youtube.com/@WidGefter)
