@@ -20,7 +20,7 @@ I'm a developer passionate about building useful digital products, exploring art
 ## 🔗 Connect With Me
 ### Samir Bekirli
 Founder of MitFly:
-- 🌐 [Website](https://samirbekirli.github.io)
+- 🌐 [Mitfly ](https://mitfly.site/)
 
 - 🎥 [YouTube: WidGefter](https://www.youtube.com/@WidGefter)
 - 💼 [LinkedIn](https://www.linkedin.com/in/samirbekirli)
